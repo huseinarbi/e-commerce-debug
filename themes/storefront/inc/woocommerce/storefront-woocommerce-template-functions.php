@@ -29,7 +29,7 @@ if ( ! function_exists( 'storefront_before_content' ) ) {
 	function storefront_before_content() {
 		?>
 		<div id="primary" class="content-area">
-			<main id="main" class="site-main" role="main">
+			<main id="main" class="site-main pt-0" role="main">
 		<?php
 	}
 }
